@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """Covid19_antiviral_analysis.ipynb
 
+The separate functions should be integrated into specific development pipelines
 """
 
 !pip install rdkit-pypi
