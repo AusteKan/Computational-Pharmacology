@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 """Covid19_antiviral_analysis.ipynb
 
-
-
-
 """
 
 !pip install rdkit-pypi
