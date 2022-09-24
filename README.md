@@ -4,6 +4,7 @@
 # Computational-Pharmacology
 Computational pharmacology research 
 
+[Manuscript link](https://doi.org/10.1016/j.bpc.2022.106891)
 
 # Computational Pharmacology: New Avenues for COVID-19 Therapeutics Search and Better Preparedness for Future Pandemic Crises
                
